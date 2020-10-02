@@ -1,0 +1,29 @@
+/* custom
+
+.nav-menu{
+
+    color: #fbfdff;
+    text-decoration: none;
+    background-color: transparent;
+}*/
+.switzer{
+	font-size: 50px;
+	color:white;
+
+}
+
+.service{
+	color:#0f3057;
+}
+
+/* Container holding the image and the text */
+
+
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
